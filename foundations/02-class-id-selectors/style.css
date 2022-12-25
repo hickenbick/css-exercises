@@ -1,0 +1,21 @@
+.general-styles {
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.odd {
+  background-color: lightpink;
+}
+#second {
+  color: blue;
+  font-size: 36px;
+}
+#third {
+  font-size: 24px;
+}
+#fourth {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+
+}
